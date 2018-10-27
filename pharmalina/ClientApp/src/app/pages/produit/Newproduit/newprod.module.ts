@@ -4,7 +4,7 @@ import { NbThemeModule, NbCardModule } from '@nebular/theme';
 import { ProduitRoutingModule, routedComponents } from '../produit-routing.module';
 import { HttpModule } from '@angular/http';
 import { ModelModule } from 'src/app/models/model.module';
-
+import { BrowserModule } from '@angular/platform-browser';
 
 
 @NgModule({
@@ -14,6 +14,7 @@ import { ModelModule } from 'src/app/models/model.module';
     ProduitRoutingModule,
     HttpModule, 
     ModelModule,
+    BrowserModule
   ],
   declarations: [
     ...routedComponents,
