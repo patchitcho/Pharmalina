@@ -10,6 +10,9 @@
       ],
       "@nebular/*": [
         "../node_modules/@nebular/*"
+      ],
+      "models/*": [
+        "src/app/models/*"
       ]
     }
   },
