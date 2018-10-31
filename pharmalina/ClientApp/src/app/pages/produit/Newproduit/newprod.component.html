@@ -1,13 +1,14 @@
 <nb-card>
-  <table class="table table-sm table-striped">
-    <tr>
-        <th>Name</th><th>Category</th><th>Price</th>
-        <th>Supplier</th><th>Ratings</th>
-    </tr>
-    <tr *ngFor="let produit of produit">
-        <td>{{produit.Code}}</td>
-        <td>{{produit.Reference}}</td>
-        <td>{{produit.Designation}}</td>
-    </tr>
-</table>
+    <table class="table table-sm table-striped">
+        <tr>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Price</th>
+        </tr>
+        <tr *ngFor="let produit of produit">
+            <td>{{produit.Code}}</td>
+            <td>{{produit.Unite}}</td>
+            <td>{{produit.Designation}}</td>
+        </tr>
+    </table>
 </nb-card>
