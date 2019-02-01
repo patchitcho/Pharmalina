@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\amine\\source\\repos\\pharmalina\\Pharmalina.Infrastructure\\Pharmalina.Infrastructure.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Domain.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Domain.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Domain.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Domain.Tests\bin\Debug\netcoreapp2.2\Pharmalina.Domain.Tests.deps.json
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Domain.Tests\bin\Debug\netcoreapp2.2\Pharmalina.Domain.Tests.runtimeconfig.json
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Domain.Tests\bin\Debug\netcoreapp2.2\Pharmalina.Domain.Tests.runtimeconfig.dev.json
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Domain.Tests\bin\Debug\netcoreapp2.2\Pharmalina.Domain.Tests.dll
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Domain.Tests\bin\Debug\netcoreapp2.2\Pharmalina.Domain.Tests.pdb
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Domain.Tests\bin\Debug\netcoreapp2.2\Pharmalina.Domain.dll
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Domain.Tests\bin\Debug\netcoreapp2.2\Pharmalina.Domain.pdb
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Domain.Tests\obj\Debug\netcoreapp2.2\Pharmalina.Domain.Tests.csprojAssemblyReference.cache
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Domain.Tests\obj\Debug\netcoreapp2.2\Pharmalina.Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Domain.Tests\obj\Debug\netcoreapp2.2\Pharmalina.Domain.Tests.AssemblyInfoInputs.cache
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Domain.Tests\obj\Debug\netcoreapp2.2\Pharmalina.Domain.Tests.AssemblyInfo.cs
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Domain.Tests\obj\Debug\netcoreapp2.2\Pharmalina.Domain.Tests.csproj.CopyComplete
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Domain.Tests\obj\Debug\netcoreapp2.2\Pharmalina.Domain.Tests.dll
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Domain.Tests\obj\Debug\netcoreapp2.2\Pharmalina.Domain.Tests.pdb

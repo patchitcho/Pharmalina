@@ -1,0 +1,14 @@
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Application.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Application.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Application.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Application.Tests\bin\Debug\netcoreapp2.1\Pharmalina.Application.Tests.deps.json
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Application.Tests\bin\Debug\netcoreapp2.1\Pharmalina.Application.Tests.runtimeconfig.json
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Application.Tests\bin\Debug\netcoreapp2.1\Pharmalina.Application.Tests.runtimeconfig.dev.json
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Application.Tests\bin\Debug\netcoreapp2.1\Pharmalina.Application.Tests.dll
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Application.Tests\bin\Debug\netcoreapp2.1\Pharmalina.Application.Tests.pdb
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Application.Tests\obj\Debug\netcoreapp2.1\Pharmalina.Application.Tests.csprojAssemblyReference.cache
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Application.Tests\obj\Debug\netcoreapp2.1\Pharmalina.Application.Tests.csproj.CoreCompileInputs.cache
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Application.Tests\obj\Debug\netcoreapp2.1\Pharmalina.Application.Tests.AssemblyInfoInputs.cache
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Application.Tests\obj\Debug\netcoreapp2.1\Pharmalina.Application.Tests.AssemblyInfo.cs
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Application.Tests\obj\Debug\netcoreapp2.1\Pharmalina.Application.Tests.dll
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Application.Tests\obj\Debug\netcoreapp2.1\Pharmalina.Application.Tests.pdb

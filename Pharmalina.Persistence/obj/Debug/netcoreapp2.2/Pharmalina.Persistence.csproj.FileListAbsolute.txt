@@ -1,0 +1,14 @@
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Persistence\bin\Debug\netcoreapp2.2\Pharmalina.Persistence.deps.json
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Persistence\bin\Debug\netcoreapp2.2\Pharmalina.Persistence.dll
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Persistence\bin\Debug\netcoreapp2.2\Pharmalina.Persistence.pdb
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Persistence\bin\Debug\netcoreapp2.2\Pharmalina.Domain.dll
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Persistence\bin\Debug\netcoreapp2.2\Pharmalina.Domain.pdb
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Persistence\obj\Debug\netcoreapp2.2\Pharmalina.Persistence.csprojAssemblyReference.cache
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Persistence\obj\Debug\netcoreapp2.2\Pharmalina.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Persistence\obj\Debug\netcoreapp2.2\Pharmalina.Persistence.AssemblyInfoInputs.cache
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Persistence\obj\Debug\netcoreapp2.2\Pharmalina.Persistence.AssemblyInfo.cs
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Persistence\obj\Debug\netcoreapp2.2\Pharmalina.Persistence.csproj.CopyComplete
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Persistence\obj\Debug\netcoreapp2.2\Pharmalina.Persistence.dll
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Persistence\obj\Debug\netcoreapp2.2\Pharmalina.Persistence.pdb
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Persistence\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Persistence\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml

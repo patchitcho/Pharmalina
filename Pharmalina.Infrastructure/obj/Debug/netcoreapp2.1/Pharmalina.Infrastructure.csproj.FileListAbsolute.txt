@@ -1,0 +1,9 @@
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Infrastructure\bin\Debug\netcoreapp2.1\Pharmalina.Infrastructure.deps.json
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Infrastructure\bin\Debug\netcoreapp2.1\Pharmalina.Infrastructure.dll
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Infrastructure\bin\Debug\netcoreapp2.1\Pharmalina.Infrastructure.pdb
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Infrastructure\obj\Debug\netcoreapp2.1\Pharmalina.Infrastructure.csprojAssemblyReference.cache
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Infrastructure\obj\Debug\netcoreapp2.1\Pharmalina.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Infrastructure\obj\Debug\netcoreapp2.1\Pharmalina.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Infrastructure\obj\Debug\netcoreapp2.1\Pharmalina.Infrastructure.AssemblyInfo.cs
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Infrastructure\obj\Debug\netcoreapp2.1\Pharmalina.Infrastructure.dll
+C:\Users\amine\source\repos\pharmalina\Pharmalina.Infrastructure\obj\Debug\netcoreapp2.1\Pharmalina.Infrastructure.pdb
