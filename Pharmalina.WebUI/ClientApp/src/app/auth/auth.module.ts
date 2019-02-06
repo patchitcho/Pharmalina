@@ -1,34 +1,15 @@
 import { NgModule } from '@angular/core';
-import { CommonModule } from '@angular/common';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { FormsModule, ReactiveFormsModule } from '@angular/forms';
-import { AuthRoutingModule } from './auth-routing.module';
-import { RegisterComponent } from './register/register.component';
-import { LoginComponent } from './login/login.component';
-import { ComponentsModule } from '../shared/components';
-import { TranslateModule } from 'ng2-translate';
-import { SimpleNotificationsModule } from 'angular2-notifications';
-import { AuthSandbox } from './auth.sandbox';
-import { AuthApiClient } from './authApiClient.service';
+import { FormsModule } from '@angular/forms';
+import { BrowserModule } from '@angular/platform-browser';
+import { RouterModule } from '@angular/router';
+import { AuthenticationService } from './authentication.service';
+import { AuthenticationComponent } from './login/authentication.component';
+import { AuthenticationGuard } from './authentication.guard';
 
 @NgModule({
-  imports: [
-    CommonModule,
-    BrowserAnimationsModule,
-    AuthRoutingModule,
-    FormsModule,
-    ReactiveFormsModule,
-    ComponentsModule,
-    TranslateModule,
-    SimpleNotificationsModule
-  ],
-  declarations: [
-    RegisterComponent,
-    LoginComponent
-  ],
-  providers: [
-    AuthApiClient,
-    AuthSandbox
-  ]
+    imports: [RouterModule, FormsModule, BrowserModule],
+    declarations: [AuthenticationComponent],
+    providers: [AuthenticationService, AuthenticationGuard],
+    exports: [AuthenticationComponent]
 })
 export class AuthModule { }
